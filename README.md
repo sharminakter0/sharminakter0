@@ -80,3 +80,15 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,git,github,vscode" />
 </p>
+
+
+<h2 align="center">GitHub Contribution</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharminakter0/sharminakter0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharminakter0/sharminakter0/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sharminakter0/sharminakter0/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
