@@ -111,15 +111,17 @@
   </tr>
 </table>
 
-<h3 align="left">🔥 GitHub Streak</h3
+
+<h3 align="left">🔥 Repository Stats & Streak</h3>
 
 <p align="center">
   <img
-    src="https://nirzak-streak-stats.vercel.app/?user=sharminakter0&theme=default&background=F3F4F6&ring=8957E5&fire=F59E0B&currStreakLabel=8957E5&hide_border=true"
-    width="80%"
-    alt="GitHub Streak Stats"
+    src="https://streak-stats.demolab.com/?user=sharminakter0&theme=default&hide_border=false&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=24292F&currStreakNum=24292F&sideNums=24292F&dates=666666"
+    width="95%"
+    alt="GitHub Repository Stats and Streak"
   />
 </p>
+
 
 
 
