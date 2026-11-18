@@ -81,8 +81,9 @@
   <img src="https://skillicons.dev/icons?i=windows,git,github,vscode" />
 </p>
 
+<h2 align="left">📊 GITHUB STATISTICS & ANALYSIS:</h2>
 
-<h2 align="center">GitHub Contribution</h2>
+<h3 align="left">GitHub Contribution</h3>
 
 <p align="center">
   <picture>
@@ -92,3 +93,11 @@
   </picture>
 </p>
 
+
+<h3 align="left">📊 GitHub Statistics</h3>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharminakter0&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="GitHub Stats" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharminakter0&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+</p>
