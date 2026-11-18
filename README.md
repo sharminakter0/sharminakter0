@@ -22,9 +22,21 @@
   <li>🚀 Building modern, responsive and user-friendly web applications.</li>
   <li>📚 Continuously learning new technologies and improving my problem-solving skills.</li>
   <li>💬 Ask me about <b>React.js, Next.js, JavaScript, TypeScript and Full-Stack Web Development</b>.</li>
-  <li>🌐 Explore My Portfolio<a href="https://sharminaktercode.netlify.app/"><b>sharminaktercode</b></a>.</li>
+  <li>🌐 Explore My Portfolio <a href="https://sharminaktercode.netlify.app/"><b>sharminaktercode</b></a>.</li>
   <li>📝 Connect with me on <a href="https://www.linkedin.com/in/sharmin-akter0s/"><b>LinkedIn</b></a>.</li>
   <li>📫 Feel free to reach me via <a href="mailto:sharminakter0sr@gmail.com"><b>Email</b></a>.</li>
 </ul>
+
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://discord.gg/MB9Y6rcu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sharmin-akter0s/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
 
 
