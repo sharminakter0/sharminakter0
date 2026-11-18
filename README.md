@@ -17,11 +17,14 @@
 <h3>🚀 Currently Working On</h3>
 
 <ul>
-  <li>💻 Exploring <b>Next.js and TypeScript</b> for modern web development.</li>
-  <li>⚛️ Building responsive applications using <b>React.js and Tailwind CSS</b>.</li>
-  <li>🔧 Practicing backend development with <b>Node.js, Express.js and MongoDB</b>.</li>
-  <li>📚 Learning advanced concepts of <b>Redux Toolkit and JavaScript</b>.</li>
-  <li>🤝 Working on personal and collaborative web development projects.</li>
+  <li>🖥️ I'm currently working with <b>React.js, Next.js, TypeScript and Redux Toolkit</b> for frontend development.</li>
+  <li>🗄️ Exploring <b>Node.js, Express.js, MongoDB and Mongoose</b> for backend development.</li>
+  <li>🚀 Building modern, responsive and user-friendly web applications.</li>
+  <li>📚 Continuously learning new technologies and improving my problem-solving skills.</li>
+  <li>💬 Ask me about <b>React.js, Next.js, JavaScript, TypeScript and Full-Stack Web Development</b>.</li>
+  <li>🌐 Explore My Portfolio<a href="https://sharminaktercode.netlify.app/"><b>sharminaktercode</b></a>.</li>
+  <li>📝 Connect with me on <a href="https://www.linkedin.com/in/sharmin-akter0s/"><b>LinkedIn</b></a>.</li>
+  <li>📫 Feel free to reach me via <a href="mailto:sharminakter0sr@gmail.com"><b>Email</b></a>.</li>
 </ul>
 
 
