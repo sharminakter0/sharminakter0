@@ -95,23 +95,25 @@
 
 
 
+
 <h3 align="left">📊 GitHub Statistics</h3>
 
 <table>
   <tr>
     <td width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sharminakter0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sharminakter0&theme=default&bg_color=F3F4F6&title_color=24292F&text_color=24292F&icon_color=8957E5&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharminakter0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharminakter0&layout=compact&theme=default&bg_color=F3F4F6&title_color=24292F&text_color=24292F&hide_border=true" width="100%" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
 
-<h3 align="left">🔥 GitHub Streak</h3>
+<h3 align="left">🔥 GitHub Streak</h3
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sharminakter0&theme=dark&hide_border=false" width="80%" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sharminakter0&theme=default&background=F3F4F6&ring=8957E5&fire=F59E0B&currStreakLabel=8957E5&hide_border=true" width="80%" alt="GitHub Streak" />
 </p>
+
 
 
