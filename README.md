@@ -94,11 +94,24 @@
 </p>
 
 
+
 <h3 align="left">📊 GitHub Statistics</h3>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharminakter0&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="GitHub Stats" />
+<table>
+  <tr>
+    <td width="60%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sharminakter0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharminakter0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharminakter0&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+<h3 align="left">🔥 GitHub Streak</h3>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sharminakter0&theme=dark&hide_border=false" width="80%" alt="GitHub Streak" />
 </p>
+
 
