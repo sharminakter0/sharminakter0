@@ -8,6 +8,8 @@
   Full-Stack Web Developer | React.js & Next.js Specialist
 </h3>
 <hr/>
+
+
 <h2>👩‍💻 About Me</h2>
 
 <p>
@@ -28,6 +30,7 @@
 </ul>
 
 
+
 <h2 align="left">🌐 Connect With Me</h2>
 
 <p align="left">
@@ -40,3 +43,40 @@
   </a>
 
 
+
+<h2 align="left">⚙️ TECHNOLOGY STACK</h2>
+
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sql" />
+</p>
+
+<h3 align="left">CSS Frameworks & Libraries:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+<h3 align="left">JavaScript Frameworks & Libraries:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" />
+</p>
+
+<h3 align="left">Database & Model:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<h3 align="left">Deployment Platform:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+</p>
+
+<h3 align="left">Design & Graphics:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop" />
+</p>
+
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode" />
+</p>
