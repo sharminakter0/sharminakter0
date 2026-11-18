@@ -138,4 +138,8 @@
 
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharminakter0&label=Profile%20Views&color=8957E5&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
