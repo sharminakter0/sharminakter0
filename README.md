@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co.com/SDXJgJKt/Blue-Brown-Corporate-Online-Business-Webinar-Banner.png" width="100%" alt="Sharmin Banner"/>
+  <img src="https://ibb.co.com/fd483fGv" width="100%" alt="Sharmin Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sharmin Akter</h1>
