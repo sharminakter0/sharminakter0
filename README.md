@@ -125,3 +125,17 @@
 
 
 
+<h2 align="left">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sharminakter0&bg_color=F3F4F6&color=24292F&line=8957E5&point=F59E0B&area=true&hide_border=true"
+    width="95%"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+
+
+
+
